@@ -18,4 +18,5 @@
 
 오늘은 이 RefreshToken 을 `Node.js` 로 구현해보았다. 토큰과 인증에 집중하기 위해 DB를 사용하지 않았고 발급한 토큰또한 코드 내의 객체에 담았다.(실제 서비스 때는 DB로 회원정보를 비교해야하고, 발급한 토큰 또한 안전한 저장소에 보관해야 한다.)
 
-[huewilliams/Node.js](https://github.com/huewilliams/Node.js/tree/master/Authentication/JWT refresh token)
+[JWT refreshToken Example](https://github.com/huewilliams/Node.js/blob/master/Authentication/JWT refresh token/app.js)
+
